@@ -1,0 +1,5 @@
+janus-version.o: version.c /usr/include/stdc-predef.h version.h
+
+/usr/include/stdc-predef.h:
+
+version.h:
